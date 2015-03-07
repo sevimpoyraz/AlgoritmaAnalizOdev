@@ -1,0 +1,4 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\KthElemanBulma\KthElemanBulma\bin\Debug\KthElemanBulma.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\KthElemanBulma\KthElemanBulma\bin\Debug\KthElemanBulma.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\KthElemanBulma\KthElemanBulma\obj\x86\Debug\KthElemanBulma.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\KthElemanBulma\KthElemanBulma\obj\x86\Debug\KthElemanBulma.pdb
