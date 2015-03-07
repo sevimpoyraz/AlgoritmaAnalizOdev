@@ -1,0 +1,4 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MaxIndexBulma\MaxIndexBulma\bin\Debug\MaxIndexBulma.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MaxIndexBulma\MaxIndexBulma\bin\Debug\MaxIndexBulma.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MaxIndexBulma\MaxIndexBulma\obj\x86\Debug\MaxIndexBulma.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MaxIndexBulma\MaxIndexBulma\obj\x86\Debug\MaxIndexBulma.pdb
