@@ -1,0 +1,5 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\IndisBulma\IndisBulma\bin\Debug\IndisBulma.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\IndisBulma\IndisBulma\bin\Debug\IndisBulma.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\IndisBulma\IndisBulma\obj\x86\Debug\IndisBulma.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\IndisBulma\IndisBulma\obj\x86\Debug\IndisBulma.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\IndisBulma\IndisBulma\obj\x86\Debug\IndisBulma.csprojResolveAssemblyReference.cache
