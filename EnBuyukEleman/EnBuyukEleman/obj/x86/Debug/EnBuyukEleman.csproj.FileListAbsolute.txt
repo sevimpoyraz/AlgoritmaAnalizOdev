@@ -1,0 +1,4 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\EnBuyukEleman\EnBuyukEleman\bin\Debug\EnBuyukEleman.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\EnBuyukEleman\EnBuyukEleman\bin\Debug\EnBuyukEleman.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\EnBuyukEleman\EnBuyukEleman\obj\x86\Debug\EnBuyukEleman.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\EnBuyukEleman\EnBuyukEleman\obj\x86\Debug\EnBuyukEleman.pdb
