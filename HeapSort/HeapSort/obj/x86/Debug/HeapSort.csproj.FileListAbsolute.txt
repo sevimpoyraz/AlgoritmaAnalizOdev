@@ -1,0 +1,5 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\HeapSort\HeapSort\obj\x86\Debug\HeapSort.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\HeapSort\HeapSort\obj\x86\Debug\HeapSort.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\HeapSort\HeapSort\obj\x86\Debug\HeapSort.csprojResolveAssemblyReference.cache
