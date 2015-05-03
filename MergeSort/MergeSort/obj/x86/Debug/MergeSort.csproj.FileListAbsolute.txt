@@ -1,0 +1,5 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MergeSort\MergeSort\obj\x86\Debug\MergeSort.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MergeSort\MergeSort\obj\x86\Debug\MergeSort.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\MergeSort\MergeSort\obj\x86\Debug\MergeSort.csprojResolveAssemblyReference.cache
