@@ -1,0 +1,4 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\LinearRecursiveSearch\LinearRecursiveSearch\bin\Debug\LinearRecursiveSearch.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\LinearRecursiveSearch\LinearRecursiveSearch\bin\Debug\LinearRecursiveSearch.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\LinearRecursiveSearch\LinearRecursiveSearch\obj\x86\Debug\LinearRecursiveSearch.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\LinearRecursiveSearch\LinearRecursiveSearch\obj\x86\Debug\LinearRecursiveSearch.pdb
