@@ -1,0 +1,4 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\QuickSort\QuickSort\obj\x86\Debug\QuickSort.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\QuickSort\QuickSort\obj\x86\Debug\QuickSort.pdb
