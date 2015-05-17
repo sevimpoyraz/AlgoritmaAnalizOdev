@@ -1,0 +1,4 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\AmstrongNumber\AmstrongNumber\bin\Debug\AmstrongNumber.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\AmstrongNumber\AmstrongNumber\bin\Debug\AmstrongNumber.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\AmstrongNumber\AmstrongNumber\obj\x86\Debug\AmstrongNumber.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\AmstrongNumber\AmstrongNumber\obj\x86\Debug\AmstrongNumber.pdb
