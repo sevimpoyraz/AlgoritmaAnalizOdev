@@ -1,0 +1,4 @@
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\SinavSorusu8\SinavSorusu8\bin\Debug\SinavSorusu8.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\SinavSorusu8\SinavSorusu8\bin\Debug\SinavSorusu8.pdb
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\SinavSorusu8\SinavSorusu8\obj\x86\Debug\SinavSorusu8.exe
+C:\Users\poyraz\Documents\Visual Studio 2010\Projects\SinavSorusu8\SinavSorusu8\obj\x86\Debug\SinavSorusu8.pdb
